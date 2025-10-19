@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Workshop AI4Life 2025",
+      "location": "Hà Nội",
+      "image": "https://picsum.photos/id/1015/300/200",
+      "status": "Sắp diễn ra"
+    },
+    {
+      "title": "FPT Hackathon",
+      "location": "Đà Nẵng 2",
+      "image": "https://picsum.photos/id/1018/300/200",
+      "status": "Đang diễn ra",
+      "id": 2
+    },
+    {
+      "title": "chinhpd5",
+      "location": "Hà Nội",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "status": "Sắp diễn ra",
+      "id": 3
+    },
+    {
+      "title": "abc",
+      "location": "chinhpd5",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "status": "Đã kết thúc",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "email": "chinhpd5@fpt.edu.vn",
+      "password": "$2a$10$bh8WrWqGv9NsiAWCzBcpyOAqvJXJ25hstVHvWn2VceV3hf.ca8Jhi",
+      "id": 1
+    },
+    {
+      "email": "chinhpd6@fpt.edu.vn",
+      "password": "$2a$10$A3ZEoIbFZED6bsz6lD/wPuKwGgpnF2Q6EjXCLwopfdMFCzXOBrvc.",
+      "id": 2
+    }
+  ]
+}
